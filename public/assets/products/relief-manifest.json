@@ -1,0 +1,50 @@
+[
+  {
+    "id": "lamp",
+    "bytes": 1062772,
+    "triangles": 16308,
+    "width": 609,
+    "height": 1110,
+    "alphaBackground": 0.1391884495332771
+  },
+  {
+    "id": "nfc",
+    "bytes": 1287268,
+    "triangles": 12586,
+    "width": 1131,
+    "height": 1183,
+    "alphaBackground": 0.640222186845325
+  },
+  {
+    "id": "rocket",
+    "bytes": 534428,
+    "triangles": 6486,
+    "width": 533,
+    "height": 1190,
+    "alphaBackground": 0.6165118955649802
+  },
+  {
+    "id": "usb",
+    "bytes": 1421608,
+    "triangles": 12788,
+    "width": 1038,
+    "height": 1091,
+    "alphaBackground": 0.624633319734595
+  },
+  {
+    "id": "stand",
+    "bytes": 1668304,
+    "triangles": 17674,
+    "width": 853,
+    "height": 1101,
+    "alphaBackground": 0.3506031498595011
+  },
+  {
+    "id": "custom",
+    "bytes": 1342084,
+    "triangles": 12002,
+    "width": 1034,
+    "height": 1070,
+    "alphaBackground": 0.6629828811077568
+  }
+]
